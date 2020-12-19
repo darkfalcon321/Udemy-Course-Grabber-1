@@ -11,6 +11,8 @@ Script to add all udemy paid/free courses having coupons automatically to your u
 # Please consider donating 
 ### BTC `bc1qdyjwj0eqxjk5hxejah4gyclrumwtqs3hqp63uz` 
 
+####jidjwo
+
 ## ***Requirements***
 
 - Python (2 or 3)
